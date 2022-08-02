@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\SecondClock\SecondClock\bin\Release\SecondClock.exe.config
+D:\VisualStudioProjects\SecondClock\SecondClock\bin\Release\SecondClock.exe
+D:\VisualStudioProjects\SecondClock\SecondClock\bin\Release\SecondClock.pdb
+D:\VisualStudioProjects\SecondClock\SecondClock\bin\Release\SecondClock.xml
+D:\VisualStudioProjects\SecondClock\SecondClock\obj\Release\SecondClock.vbproj.AssemblyReference.cache
+D:\VisualStudioProjects\SecondClock\SecondClock\obj\Release\SecondClock.Clock.resources
+D:\VisualStudioProjects\SecondClock\SecondClock\obj\Release\SecondClock.Resources.resources
+D:\VisualStudioProjects\SecondClock\SecondClock\obj\Release\SecondClock.vbproj.GenerateResource.cache
+D:\VisualStudioProjects\SecondClock\SecondClock\obj\Release\SecondClock.vbproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\SecondClock\SecondClock\obj\Release\SecondClock.exe
+D:\VisualStudioProjects\SecondClock\SecondClock\obj\Release\SecondClock.xml
+D:\VisualStudioProjects\SecondClock\SecondClock\obj\Release\SecondClock.pdb
